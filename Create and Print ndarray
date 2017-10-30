@@ -5,3 +5,11 @@ print first_numpy_array
 #array with zeros
 array_with_zeros = np.zeros([3,3])
 array_with_zeros
+
+#array with ones
+array_with_ones = np.ones([2,3])
+array_with_ones
+
+#empty array
+array_empty = np.empty([2,3])
+array_empty
